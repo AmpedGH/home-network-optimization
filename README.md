@@ -15,6 +15,7 @@ A Raspberry Pi 3B+ configured as a wireless network bridge using an Alfa Wi-Fi a
 | RJ45 Passthrough Connectors | [Amazon](https://www.amazon.com/Jadaol-Ethernet-High-Speed-Internet-Streaming/dp/B00WD017GQ/) |
 | RJ45 Crimp Tool | [Amazon](https://www.amazon.com/dp/B0B69B94T2) |
 | 5V Power Supply for Raspberry Pi | [Amazon](https://www.amazon.com/2-5A-Adapter-Raspberry-Power-Supply/dp/B09TT2N3WR/) |
+| **8GB Micro SD Card** | [Amazon](https://www.amazon.com/SanDisk-Ultra-microSDHC-UHS-I-Adapter/dp/B073K14966/) |
 
 ---
 
